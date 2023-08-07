@@ -1,5 +1,5 @@
 [![waylon walker header](https://github.com/VARhimank/VARhimank/blob/main/header.gif)](https://www.linkedin.com/in/anant-samrat-bb3b9b247)
-<img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" style="height:50px; width :50px" Hello, World! I'm [Anant Samrat], a passionate B.Tech C.S.E (Computer Science and Engineering) student exploring the fascinating world of code and technology. 
+<img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" style="height:50px; width :50px"> Hello, World! I'm [Anant Samrat], a passionate B.Tech C.S.E (Computer Science and Engineering) student exploring the fascinating world of code and technology. 
 🎓 Education: Pursuing my Bachelor's degree in Computer Science and Engineering at Amity University  ,Uttar pradesh. 
 💻 Coding Enthusiast: I'm deeply enthusiastic about programming, software development, and all things tech-related. Always eager to learn, create, and collaborate on exciting projects.  
 🚀 Constantly Evolving: Embracing the journey of continuous growth, I'm sharpening my skills in various programming languages, algorithms, and data structures. 

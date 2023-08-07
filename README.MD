@@ -1,5 +1,5 @@
 [![waylon walker header](https://github.com/VARhimank/VARhimank/blob/main/header.gif)]()
-<img src="https://camo.githubusercontent.com/8688ddee7e890dd431c7a49285ea128dd7c42b8a20361e75da59aee75330bdc2/68747470733a2f2f626c6f672e6a6f79706978656c732e636f6d2f636f6e74656e742f696d616765732f323031392f30362f776176696e675f68616e645f7369676e5f313032342e676966" style="height:50px; width :50px" Hello, World! I'm [Anant Samrat], a passionate B.Tech C.S.E (Computer Science and Engineering) student exploring the fascinating world of code and technology. 
+<img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" style="height:50px; width :50px" Hello, World! I'm [Anant Samrat], a passionate B.Tech C.S.E (Computer Science and Engineering) student exploring the fascinating world of code and technology. 
 🎓 Education: Pursuing my Bachelor's degree in Computer Science and Engineering at Amity University  ,Uttar pradesh. 
 💻 Coding Enthusiast: I'm deeply enthusiastic about programming, software development, and all things tech-related. Always eager to learn, create, and collaborate on exciting projects.  
 🚀 Constantly Evolving: Embracing the journey of continuous growth, I'm sharpening my skills in various programming languages, algorithms, and data structures. 

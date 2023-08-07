@@ -1,11 +1,17 @@
 [![waylon walker header](https://github.com/VARhimank/VARhimank/blob/main/header.gif)](https://www.linkedin.com/in/anant-samrat-bb3b9b247)
+<br><br>
 <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" style="height:50px; width :50px"> Hello, World! I'm [Anant Samrat], a passionate B.Tech C.S.E (Computer Science and Engineering) student exploring the fascinating world of code and technology. 
-🎓 Education: Pursuing my Bachelor's degree in Computer Science and Engineering at Amity University  ,Uttar pradesh. 
-💻 Coding Enthusiast: I'm deeply enthusiastic about programming, software development, and all things tech-related. Always eager to learn, create, and collaborate on exciting projects.  
-🚀 Constantly Evolving: Embracing the journey of continuous growth, I'm sharpening my skills in various programming languages, algorithms, and data structures. 
-🌟 Open Source Advocate: I believe in the power of open-source collaboration, where knowledge is shared and communities thrive. Contributing to open-source projects to make a positive impact on the world. 
-🔍 Exploring AI & ML: Fascinated by the potential of Artificial Intelligence and Machine Learning, I'm delving into this field to understand and leverage its capabilities. 
-📚 Lifelong Learner: Forever curious and hungry for knowledge, I'm always on the lookout for new technologies and trends in the ever-evolving tech landscape. 
-🎯 Goals: Striving to make a meaningful difference through innovative and user-centric software solutions. Dreaming of a world where technology enhances lives. 
-🤝 Let's Collaborate: I'm open to collaborations and ready to connect with like-minded individuals who share the same passion for tech and coding. 
-📫 Reach Me: Feel free to drop me a message or connect with me on <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>LinkedIn</title><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg> [www.linkedin.com/in/anant-samrat-bb3b9b247], let's build something incredible together!  Happy coding! 😊🚀 
+Pursuing Bachelor's in Computer Science and Engineering
+- Coding Enthusiast and Tech Lover
+- Constantly learning and growing
+- Passionate about Open Source
+- Exploring AI & ML
+- Lifelong Learner, hungry for knowledge
+- Goal: Creating user-centric software solutions
+- Open to collaborations and connections.
+- Reach out via email.
+
+
+
+<br>
+

@@ -13,7 +13,8 @@ Pursuing Bachelor's in Computer Science and Engineering
 - Open to collaborations and connections.
 
 ``` Contact Me```
-<a href="malito:anantsamrat8@gmail.com">Mail Me   or Reach me at <a href="https://www.linkedin.com/in/anant-samrat-bb3b9b247">LinkedIn</a>
+<br><br>
+<a href="malito:anantsamrat8@gmail.com"> Mail Me </a>  or Reach me at <a href="https://www.linkedin.com/in/anant-samrat-bb3b9b247"> <img src="https://imgs.search.brave.com/Q1gBYtkvkaPWxBytdprb6QIzSl3-zcuWA8wviyxISh4/rs:fit:500:0:0/g:ce/aHR0cDovL2NsaXBh/cnQtbGlicmFyeS5j/b20vaW1hZ2VfZ2Fs/bGVyeTIvTGlua2Vk/aW4tUE5HLUhELnBu/Zw">LinkedIn</a>
 
 
 
